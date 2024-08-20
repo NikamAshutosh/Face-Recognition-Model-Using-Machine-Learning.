@@ -11,7 +11,6 @@ cd face-detection-recognition
 Create a virtual environment (optional but recommended):
 
 Install the required packages:
-
 pip install -r requirements.txt
 Requirements File
 
@@ -80,5 +79,4 @@ Speed: The system's performance is measured by the time it takes to process imag
 Optimization
 Inference Time: Techniques such as model pruning or quantization may be applied to speed up face recognition.
 Scalability: Efficient data handling and batch processing methods are used to handle large datasets.
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
+
